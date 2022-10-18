@@ -1,4 +1,4 @@
-# Hentai-Diffusion
+![ezgif-4-873ad5c363](https://user-images.githubusercontent.com/28798918/196344576-28892c1f-6c5a-4749-83ea-54e12d633d36.gif)
 
 Welcome To The Hentai Diffusion GitHub
 
@@ -6,6 +6,8 @@ Hentai Diffusion has been made to focus not only on hentai, but better hands and
 
 
 # Better Animation 
+
+We've improved animation abilities. Now subsequent images will be more coherent.
 
 ![monnotdonefiir](https://user-images.githubusercontent.com/28798918/196336931-5b245973-b62a-45f6-b51d-2354409bebda.gif)
 
