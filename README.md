@@ -32,7 +32,7 @@ Seeing as the majority of users enjoy the content, reaching the top of a few pag
 
 Below is one of the most successful examples.
 
-![Screenshot (16089)](https://user-images.githubusercontent.com/28798918/196338657-054b7827-6e87-4e75-91a4-eb9ae68e3d76.png)
+![Screenshot (16089)](https://user-images.githubusercontent.com/28798918/196340759-24f40817-4db6-4f11-a38e-b1d8bb37ae9d.png)
 
 
 # CFG Scale Testing
