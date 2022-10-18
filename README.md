@@ -1,6 +1,6 @@
 # Hentai-Diffusion
 
-- Welcome To The Hentai Diffusion GitHub -
+Welcome To The Hentai Diffusion GitHub
 
 Hentai Diffusion has been made to focus not only on hentai, but better hands and better obscure poses. 
 
@@ -37,3 +37,8 @@ Euler ancestral provides the best results, and doesn't need to be changed.
 Github can't host the size of the file, so drop by Huggingface to download.
 
 https://huggingface.co/Deltaadams/Hentai-Diffusion/tree/main
+
+# Coming Soon
+
+- Merged model with WF using the Inverse Sigmoid interpolation method with a 0.25 merger value.
+- More Characters. Current supported sharacters include most characters with over 5,000 results on R34 and Gelbooru. Suggestions welcome on the "Issues" tab on this page.
