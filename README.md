@@ -1,6 +1,12 @@
 # Hentai-Diffusion
 
-Specializing in hands and other features ;) .
+- Welcome To The Hentai Diffusion GitHub -
+
+Hentai Diffusion has been made to focus not only on hentai, but better hands and better obscure poses. 
+
+
+![xy_grid-0112-4283462332-1girl, monika _(doki doki literature club_, (breasts_0 984), (brown hair_0 989), (cleavage_0 586), (collarbone_0 746), (eyebrows](https://user-images.githubusercontent.com/28798918/196337574-809d51a6-15e8-497f-bd50-d832da29b265.png)
+
 
 # Better Animation:
 
@@ -18,6 +24,11 @@ Specializing in hands and other features ;) .
 
 # Small Study In The Wild
 
+# CFG Scale Testing
+
+Below is a graph to help guide you on which CFG scale works best for the style you need.
+
+![xy_grid-0112-4283462332-1girl, monika _(doki doki literature club_, (breasts_0 984), (brown hair_0 989), (cleavage_0 586), (collarbone_0 746), (eyebrows](https://user-images.githubusercontent.com/28798918/196337574-809d51a6-15e8-497f-bd50-d832da29b265.png)
 
 # Download:
 
