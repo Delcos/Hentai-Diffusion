@@ -47,7 +47,9 @@ Euler ancestral provides the best results, and doesn't need to be changed.
 
 
 
-# Download:
+# Downloads
+
+Github can't host the size of the file, so drop by Huggingface to download.
 
 # !!!! IMPORTANT !!!!
 This model was built with the universal negative prompt in mind.
