@@ -46,8 +46,13 @@ Below is a graph to help guide you on which CFG scale works best for the style y
 Euler ancestral provides the best results, and doesn't need to be changed.
 
 
+
 # Download:
 
+# !!!! IMPORTANT !!!!
+This model was built with the universal negative prompt in mind.
+The text file can be found on Huggingface as well, copy and paste or save the text file and enter it as the negaive promp, which I would suggest you save as a style in WebUI.
+ 
 Github can't host the size of the file, so drop by Huggingface to download.
 
 https://huggingface.co/Deltaadams/Hentai-Diffusion/tree/main
