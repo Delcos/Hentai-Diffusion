@@ -54,7 +54,9 @@ Github can't host the size of the file, so drop by Huggingface to download.
 ## !!!! IMPORTANT !!!!
 This model was built with the universal negative prompt in mind.
 The text file can be found on Huggingface as well, copy and paste or save the text file and enter it as the negaive promp, which I would suggest you save as a style in WebUI.
- 
+
+**Windows defender, and only windows defender has chosen to flat some checkpoint files as false positives. I know it's shocking the king of false positives gave a false positive , but to the few people concerned, no it's not a virus, and I reccomend using MalwareByes or anything other than Windows Defender.**
+
 Github can't host the size of the file, so drop by Huggingface to download.
 
 https://huggingface.co/Deltaadams/Hentai-Diffusion/tree/main
