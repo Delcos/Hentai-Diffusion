@@ -18,6 +18,12 @@ We've improved animation abilities. Now subsequent images will be more coherent.
 
 ![00092-1765832305-best quality, {{{nsfw}}}, {{{masterpiece}}}, 1girl, monika _(doki doki literature club_, (breasts_0 984), (brown hair_0 989), (c](https://user-images.githubusercontent.com/28798918/196337327-4269e706-ec74-43ea-ad1e-18cb36b078a8.png)
 
+# Improving Style Consistency and Results
+
+We've been working on improving style consistency. In the upcomig release of HD-17 characters will look more cohesive. This can be easily changed by using any embeddings or hypernetworks. HD-17 also accepts style changes a bit easier, though that might be placebo.
+
+![34342478](https://user-images.githubusercontent.com/28798918/197039065-5c0fe95c-7179-4585-874c-c9c39f5e5397.png)
+
 
 # Better Real Photograph To Anime 
 
