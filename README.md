@@ -5,34 +5,34 @@ Welcome To The Hentai Diffusion GitHub
 Hentai Diffusion has been made to focus not only on hentai, but better hands and better obscure poses. 
 
 
-# Better Animation 
+# Better Animation:
 
 We've improved animation abilities. Now subsequent images will be more coherent.
 
 ![monnotdonefiir](https://user-images.githubusercontent.com/28798918/196336931-5b245973-b62a-45f6-b51d-2354409bebda.gif)
 
 
-# Better Obscure Camera Angles
+# Better Obscure Camera Angles:
 
 ![00093-1765832306-best quality, {{{nsfw}}}, {{{masterpiece}}}, 1girl, monika _(doki doki literature club_, (breasts_0 984), (brown hair_0 989), (c](https://user-images.githubusercontent.com/28798918/196337316-1e6ada59-ad19-4b99-b72e-ad50a1aed32c.png)
 
 ![00092-1765832305-best quality, {{{nsfw}}}, {{{masterpiece}}}, 1girl, monika _(doki doki literature club_, (breasts_0 984), (brown hair_0 989), (c](https://user-images.githubusercontent.com/28798918/196337327-4269e706-ec74-43ea-ad1e-18cb36b078a8.png)
 
-# Improving Style Consistency and Results
+# Improving Style Consistency and Results:
 
 We've been working on improving style consistency. In the upcomig release of HD-17 characters will look more cohesive. This can be easily changed by using any embeddings or hypernetworks. HD-17 also accepts style changes a bit easier, though that might be placebo.
 
 ![34342478](https://user-images.githubusercontent.com/28798918/197039065-5c0fe95c-7179-4585-874c-c9c39f5e5397.png)
 
 
-# Better Real Photograph To Anime 
+# Better Real Photograph To Anime:
 
 Effort has been put into getting HD working better with iti using real photographs as references. 
 
 ![645646](https://user-images.githubusercontent.com/28798918/196337131-46f89c57-0c85-477f-a03a-759f1ccc224a.gif)
 
 
-# Small Study In The Wild
+# Small Study In The Wild:
 
 Recently I've released a few images into the wild on different reddit accounts and pages. While most people seem indifferent or unable to tell the difference, a small group of users have been incredibly hostile. No posts were ever removed and it seems the more vocally negative user are an extreme minority, and most users are happy to get more art. The reasons for hostility range from inferiority or jealousy to something more of a perceived justice of "You didn't do that". Though given the vocality of some users I do feel it comes from a much deeper place than just not liking the produced art.
 
@@ -43,7 +43,7 @@ Below is one of the most successful examples.
 ![Screenshot (16089)](https://user-images.githubusercontent.com/28798918/196340759-24f40817-4db6-4f11-a38e-b1d8bb37ae9d.png)
 
 
-# CFG Scale Testing
+# CFG Scale Testing:
 
 Below is a graph to help guide you on which CFG scale works best for the style you need.
 
@@ -57,7 +57,7 @@ This model was built with the universal negative prompt in mind.
 The text file can be found on Huggingface as well, copy and paste or save the text file and enter it as the negaive promp, which I would suggest you save as a style in WebUI.
 
 
-## False Virus Flagging Update
+## False Virus Flagging Update:
 
 Windows defender, and only windows defender has chosen to flag some checkpoint files as false positives. I know it's shocking the king of false positives gave a false positive , but to the few people concerned, no it's not a virus, and I reccomend using MalwareByes or anything other than Windows Defender.
 
@@ -68,6 +68,17 @@ Current Version HD-16: [Download](https://huggingface.co/Deltaadams/Hentai-Diffu
 
 Negative Prompt [Open](https://huggingface.co/Deltaadams/Hentai-Diffusion/resolve/main/Universal%20Negative%20Prompt%20Text.txt)
 Copy and paste into Neg Prompt area, save as style
+
+# Getting Started:
+
+###Step 1:
+
+You'll need a way to run the chkpt file.
+We reccomend using AUTOMATIC1111's UI
+[Download](https://github.com/AUTOMATIC1111/stable-diffusion-webui/archive/refs/heads/master.zip)
+
+
+
 
 # Coming Soon
 
