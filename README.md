@@ -72,11 +72,40 @@ Copy and paste into Neg Prompt area, save as style
 
 # Getting Started:
 
-###Step 1:
+### Step 1:
 
 You'll need a way to run the chkpt file.
 We reccomend using AUTOMATIC1111's UI
 [Download](https://github.com/AUTOMATIC1111/stable-diffusion-webui/archive/refs/heads/master.zip)
+
+Once you have the stable_diffusion_webui zip file, unzip it into the directory you want to use for Hentai Diffusion.
+
+### Step 2:
+
+Open the folder containing the files you just extracted, and go to this folder.
+
+stable-diffusion-webui-master\models\Stable-diffusion
+
+Place the .chkp file you downloaded into the folder.
+
+### Step 3:
+
+Return to the main directory.
+
+stable-diffusion-webui-master\
+
+On windows run webui-user.sh For linux use webui.sh
+
+Let it run and download all the needed requirments. It may seem frozen at times but it is doing fine, just don't close the terminal.
+
+### Step 4:
+
+Open your browser to the local address shown in the terminal. It should be something like 127.0.0.1.
+
+### Step 5:
+
+Make sure to select Hentai Diffusion in the dropdown menu here.
+![Screenshot (36)](https://user-images.githubusercontent.com/28798918/199120043-43101b77-3ca1-4d0c-a405-f79883525154.png)
 
 
 
