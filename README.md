@@ -107,9 +107,27 @@ Open your browser to the local address shown in the terminal. It should be somet
 Make sure to select Hentai Diffusion in the dropdown menu here.
 ![Screenshot (36)](https://user-images.githubusercontent.com/28798918/199120043-43101b77-3ca1-4d0c-a405-f79883525154.png)
 
+### Step 6:
 
+Take the negative prompt you downloaded and paste it into the negative prompt section.
 
+Make sure the prompt field above it is empty.
 
+![Screenshot (36)](https://user-images.githubusercontent.com/28798918/199120415-feeabca6-653b-45ec-a29a-bd8b8cf49aed.png)
+
+### Step 7:
+
+Click the save icon and name it whatever you want. Something like "Master Negative" is a good choice.
+
+![Screenshot (34)](https://user-images.githubusercontent.com/28798918/199120627-d733b97c-43b6-4220-825b-054478a20c45.png)
+
+### Step 8:
+
+Whenever you start up the webui, select style one, and then the name of the master negative. You then click on the clipboard icon and it will add it to the field.
+
+This is only needed once per session and as long as the browser isn't closed.
+
+![Screenshot (34)](https://user-images.githubusercontent.com/28798918/199120705-4a377f21-309e-4865-ab0b-a3a60b130277.png)
 
 
 # Coming Soon
