@@ -66,7 +66,8 @@ Windows defender, and only windows defender has chosen to flag some checkpoint f
 
 Current Version HD-16: [Download](https://huggingface.co/Deltaadams/Hentai-Diffusion/resolve/main/HD-16.ckpt)
 
-Negative Prompt [Open](https://huggingface.co/Deltaadams/Hentai-Diffusion/resolve/main/Universal%20Negative%20Prompt%20Text.txt)
+Negative Prompt [Download](https://huggingface.co/Deltaadams/Hentai-Diffusion/resolve/main/Universal%20Negative%20Prompt%20Text.txt)
+
 Copy and paste into Neg Prompt area, save as style
 
 # Getting Started:
@@ -76,6 +77,8 @@ Copy and paste into Neg Prompt area, save as style
 You'll need a way to run the chkpt file.
 We reccomend using AUTOMATIC1111's UI
 [Download](https://github.com/AUTOMATIC1111/stable-diffusion-webui/archive/refs/heads/master.zip)
+
+
 
 
 
