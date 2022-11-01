@@ -131,7 +131,7 @@ This is only needed once per session and as long as the browser isn't closed.
 
 ### For best results:
 
-Add "1girl, anime," without the quotes to the biggining of your prompt.
+Add "1girl, anime," without the quotes to the beginning of your prompt.
 
 
 # Coming Soon
