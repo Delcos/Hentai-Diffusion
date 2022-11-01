@@ -4,6 +4,7 @@ Welcome To The Hentai Diffusion GitHub
 
 Hentai Diffusion has been made to focus not only on hentai, but better hands and better obscure poses. 
 
+Dispite the name there is no adult content on this page.
 
 # Better Animation:
 
