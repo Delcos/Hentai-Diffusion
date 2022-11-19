@@ -65,9 +65,9 @@ Windows defender, and only windows defender has chosen to flag some checkpoint f
 
 ## Downloads:
 
-Current Version HD-16: [Download](https://huggingface.co/Deltaadams/Hentai-Diffusion/resolve/main/HD-16.ckpt)
+Current Version HD-16: [Download](https://huggingface.co/Deltaadams/HentaiDiffusion/resolve/main/HD-16.ckpt)
 
-Negative Prompt [Download](https://huggingface.co/Deltaadams/Hentai-Diffusion/resolve/main/Universal%20Negative%20Prompt%20Text.txt)
+Negative Prompt [Download](https://huggingface.co/Deltaadams/HentaiDiffusion/resolve/main/Universal%20Negative%20Prompt%20Text.txt)
 
 Copy and paste into Neg Prompt area, save as style
 
