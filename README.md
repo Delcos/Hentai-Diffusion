@@ -15,9 +15,11 @@ We've improved animation abilities. Now subsequent images will be more coherent.
 
 # Better Obscure Camera Angles:
 
-![00093-1765832306-best quality, {{{nsfw}}}, {{{masterpiece}}}, 1girl, monika _(doki doki literature club_, (breasts_0 984), (brown hair_0 989), (c](https://user-images.githubusercontent.com/28798918/196337316-1e6ada59-ad19-4b99-b72e-ad50a1aed32c.png)
+![6757647](https://user-images.githubusercontent.com/28798918/202870506-514c4f1d-a319-4d74-9723-e94705f436c1.png)
 
-![00092-1765832305-best quality, {{{nsfw}}}, {{{masterpiece}}}, 1girl, monika _(doki doki literature club_, (breasts_0 984), (brown hair_0 989), (c](https://user-images.githubusercontent.com/28798918/196337327-4269e706-ec74-43ea-ad1e-18cb36b078a8.png)
+![7657](https://user-images.githubusercontent.com/28798918/202870514-ce1e30af-8d0e-4e4e-9ab7-aab1be913f2c.png)
+
+
 
 # Improving Style Consistency and Results:
 
