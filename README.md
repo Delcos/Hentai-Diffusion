@@ -6,6 +6,10 @@ Hentai Diffusion has been made to focus not only on hentai, but better hands and
 
 Dispite the name there is no adult content on this page.
 
+![00009-3070700297-best quality, {{{nsfw}}}, {{{masterpiece}}}, 1girl, monika _(doki doki literature club_, (breasts_0 984), (brown hair_0 989), (c](https://user-images.githubusercontent.com/28798918/202879986-727fe17b-f3ad-4d56-8b10-64819fa2ed16.png)
+
+
+
 # Better Animation:
 
 We've improved animation abilities. Now subsequent images will be more coherent.
