@@ -11,7 +11,7 @@ Dispite the name there is no adult content on this page.
 
 ## Hentai Diffusion vs Top Models
 
-HD 17 now keeps a more consistant style.
+HD 17 now keeps a more consistentstyle.
 
 ![xy_grid-0088-343243-best quality, {{{nsfw}}}, {{{masterpiece}}}, 1girl, monika _(doki doki literature club_, (breasts_0 984), (brown hair_0 989), (c](https://user-images.githubusercontent.com/28798918/202932859-59f20be4-b773-40fb-8758-5320265930fe.png)
 
