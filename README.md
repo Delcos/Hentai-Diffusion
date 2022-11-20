@@ -79,6 +79,10 @@ Copy and paste into Neg Prompt area, save as style
 
 # Getting Started:
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WAuDzv3AbeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ### Step 1:
 
 You'll need a way to run the chkpt file.
