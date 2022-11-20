@@ -80,7 +80,9 @@ Copy and paste into Neg Prompt area, save as style
 # Getting Started:
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WAuDzv3AbeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://user-images.githubusercontent.com/28798918/202928369-7c1b7a55-4585-4582-afaa-db1966d416d7.mp4
+
 
 
 ### Step 1:
