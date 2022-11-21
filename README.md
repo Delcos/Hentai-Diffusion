@@ -72,14 +72,16 @@ The text file can be found on Huggingface as well, copy and paste or save the te
 
 ## False Virus Flagging Update:
 
-Windows defender, and only windows defender has chosen to flag some checkpoint files as false positives. I know it's shocking the king of false positives gave a false positive , but to the few people concerned, no it's not a virus, and I reccomend using MalwareByes or anything other than Windows Defender.
+Windows defender, and only windows defender has chosen to flag some checkpoint files as false positives. I know it's shocking the king of false positives gave a false positive , but to the few people concerned, no it's not a virus, and I recommend using MalwareByes or anything other than Windows Defender.
 
 
 ## Downloads:
 
-Current Version HD-16: [Download](https://huggingface.co/Deltaadams/HentaiDiffusion/resolve/main/HD-16.ckpt)
+Current Version HD-17: [Download](https://huggingface.co/Deltaadams/HentaiDiffusion/resolve/main/HD-17.ckpt)
 
 Negative Prompt [Download](https://huggingface.co/Deltaadams/HentaiDiffusion/resolve/main/Universal%20Negative%20Prompt%20Text.txt)
+
+Old Version HD-16 (Archived): [Download](https://huggingface.co/Deltaadams/HentaiDiffusion/resolve/main/HD-16.ckpt)
 
 Copy and paste into Neg Prompt area, save as style
 
