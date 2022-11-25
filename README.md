@@ -106,7 +106,7 @@ Return to the main directory.
 
 `stable-diffusion-webui-master\`
 
-On windows run the `webui-user.sh` file. For linux use `webui.sh`.
+On windows run the `webui-user.bat` file. For linux use `webui.sh`.
 
 Let it run and download all the needed requirements. It may seem frozen at times but it is doing fine, just don't close the terminal.
 
