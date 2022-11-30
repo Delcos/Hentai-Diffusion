@@ -4,7 +4,9 @@ Welcome To The Hentai Diffusion GitHub
 
 Hentai Diffusion has been made to focus not only on hentai, but better hands and better obscure poses. 
 
-Dispite the name there is no adult content on this page.
+### Dispite the name there is no adult content on this page.
+
+
 ![00621-2217442214-best quality, {{{nsfw}}}, {{{masterpiece}}}, 1girl, monika _(doki doki literature club_, (breasts_0 984), (brown hair_0 989), (c](https://user-images.githubusercontent.com/28798918/203434940-6dc44ff3-e000-468f-9fed-2d3cc1a64bfb.png)
 
 
