@@ -68,7 +68,7 @@ Euler ancestral provides the best results and doesn't need to be changed.
 
 # !!!! IMPORTANT | READ BEFORE DOWNLOADING !!!!
 This model was built with the universal negative prompt in mind.
-The text file can be found on Huggingface as well - copy and paste it or save the text file and enter it as the negative prompt. I  suggest you save as a style in the [webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui).
+The text file can be found on Hugging Face as well - copy and paste it or save the text file and enter it as the negative prompt. I  suggest you save as a style in the [webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui).
 
 ## False Virus Flagging Update:
 
