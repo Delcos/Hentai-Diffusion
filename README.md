@@ -76,9 +76,12 @@ Windows Defender is the only anti-virus that has chosen to flag some checkpoint 
 
 ## Downloads:
 
-Current Version: [HD-17](https://huggingface.co/Deltaadams/HentaiDiffusion/resolve/main/HD-17.ckpt)
+Current Version: [HD-18](https://huggingface.co/Deltaadams/HentaiDiffusion/resolve/main/HD-18.ckpt)
+
 
 Negative Prompt: [Download](https://huggingface.co/Deltaadams/HentaiDiffusion/resolve/main/Universal%20Negative%20Prompt%20Text.txt)
+
+Old Version (Archived) More Washed Out Style: [HD-17](https://huggingface.co/Deltaadams/HentaiDiffusion/resolve/main/HD-17.ckpt)
 
 Old Version (Archived): [HD-16](https://huggingface.co/Deltaadams/HentaiDiffusion/resolve/main/HD-16.ckpt)
 
