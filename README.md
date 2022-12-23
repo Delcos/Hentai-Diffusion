@@ -143,6 +143,19 @@ This is only needed once per session as long as the browser isn't closed.
 
 ![Screenshot (34)](https://user-images.githubusercontent.com/28798918/199120705-4a377f21-309e-4865-ab0b-a3a60b130277.png)
 
+### Sanity Test:
+Use the settings below to match this picture.
+
+
+![01803-1937219035-best quality, {{{nsfw}}}, {{{masterpiece}}}, 1girl, monika _(doki doki literature club_, (breasts_0 984), (brown hair_0 989), (c](https://user-images.githubusercontent.com/28798918/209410478-415e7042-ccac-491c-aa79-4f69cf5cfba7.png)
+
+
+best quality, {{{nsfw}}}, {{{masterpiece}}}, 1girl, monika \(doki doki literature club\, (breasts:0.984), (brown hair:0.989), (cleavage:0.586), (collarbone:0.746), (eyebrows visible through hair:0.732), (green eyes:0.944), (long hair:0.982), (ponytail:0.741), plump, wide hips, ((white_ribbon)), jeans, t-shirt, trembling, embarrassed, (autumn leaves, autumn), cowboy shot, outdoors, (cropped legs), blurry background
+
+Make sure to use negative master.
+
+Steps: 140, Sampler: Euler a, CFG scale: 11.5, Seed: 1937219035, Size: 896x768, Denoising strength: 0.7, First pass size: 0x0 High Res Fix: On
+
 ### For best results:
 
 Add "1girl, anime," without the quotes to the beginning of your prompt.
