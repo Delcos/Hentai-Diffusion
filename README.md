@@ -1,2 +1,2 @@
 
-We've Moved [Here] (https://www.cognitionai.org/hdmainpage)
+We've Moved [Here](https://www.cognitionai.org/hdmainpage)
