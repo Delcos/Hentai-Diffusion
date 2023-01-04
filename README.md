@@ -1,5 +1,5 @@
 
-## [We've Moved Click Here] (https://www.cognitionai.org/hdmainpage) 
+[We've Moved Click Here] (https://www.cognitionai.org/hdmainpage) 
 The benifits?
 
 Better managment and more details for descriptions and guides, direct contact for technical questions, and faster releases. 
