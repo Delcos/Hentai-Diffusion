@@ -2,6 +2,7 @@
 ## [We've Moved Click Here](https://www.cognitionai.org/hdmainpage) 
 
 ### HD-22
+Now supports some pokemon too.
 
 ![3534535](https://user-images.githubusercontent.com/28798918/215856935-1e6a8af6-9f52-4773-96ee-49c029f7b37d.png)
 
