@@ -1,13 +1,18 @@
 
-## [Revampt Coming Soon]
-
+## [Website Redesign In Progress]
+Standard download below.
 ### HD-22
-Now supports some pokemon too.
 
 ![3534535](https://user-images.githubusercontent.com/28798918/215856935-1e6a8af6-9f52-4773-96ee-49c029f7b37d.png)
 
-## [Click Here](https://www.cognitionai.org/hdmainpage) 
 
+Downloads Hosted On Huggingface.
+
+
+## [HD-22 Safetensor](https://huggingface.co/Deltaadams/HD-22/resolve/main/HD22%20S.zip) 
+## [UI](https://huggingface.co/Deltaadams/ignoremepls/resolve/main/webui-A2.zip) 
+
+Website Remodel in progress.
 The benifits?
 
 Better management and more details for descriptions and guides, direct contact for technical questions, and faster releases. 
