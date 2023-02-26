@@ -19,12 +19,14 @@ Downloads Hosted On Huggingface.
 Step 1:
 You'll need a way to run the chkpt file. Check The Downloads for a UI.
 
+
 Step 2:
 Open the folder containing the files you just extracted, and go to this folder.
 
 stable-diffusion-webui-master\models\Stable-diffusion
 
 Place the .chkp file you downloaded into the folder.
+
 
 Step 3:
 Return to the main directory.
@@ -35,11 +37,14 @@ On windows run webui-user.sh For linux use webui.sh
 
 Let it run and download all the needed requirments. It may seem frozen at times but it is doing fine, just don't close the terminal.
 
+
 Step 4:
 Open your browser to the local address shown in the terminal. It should be something like 127.0.0.1.
 
+
 Step 5:
 Make sure to select Hentai Diffusion (or whatever the currect ckpt file name is) in the dropdown menu here.
+
 
 Step 6:
 Take the negative prompt you downloaded and paste it into the negative prompt section.
