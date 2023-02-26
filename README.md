@@ -14,7 +14,8 @@ Downloads Hosted On Huggingface.
 
 
 
-Getting Started:
+## Getting Started:
+
 Step 1:
 You'll need a way to run the chkpt file. Check The Downloads for a UI.
 
