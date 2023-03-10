@@ -6,6 +6,10 @@ Standard download below.
 ![3534535](https://user-images.githubusercontent.com/28798918/215856935-1e6a8af6-9f52-4773-96ee-49c029f7b37d.png)
 
 
+![ChatGPT-LLaM (2)](https://user-images.githubusercontent.com/28798918/224436424-f14eea3d-2f2d-48d5-af72-a393d1f9a65a.png)
+
+
+
 Downloads Hosted On Huggingface.
 
 
