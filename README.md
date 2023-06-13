@@ -1,7 +1,9 @@
 
 ## [We Moved (Downloads Hosted On Huggingface)]
 
-## [Visit]([https://huggingface.co/Deltaadams/HD-22/resolve/main/HD22%20S.zip](https://www.cognitionai.org/hdmainpage))  
+This site was built using [GitHub Pages](https://pages.github.com/)
+
+## Click [Here To Visit](https://www.cognitionai.org/)  
 
 
 
