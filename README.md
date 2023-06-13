@@ -1,8 +1,6 @@
 
 ## We Moved (Downloads Hosted On Huggingface)
 
-This site was built using [GitHub Pages](https://pages.github.com/)
-
 ## [Click Here To Visit](https://www.cognitionai.org/hdhowtogetstarted)  
 
 
